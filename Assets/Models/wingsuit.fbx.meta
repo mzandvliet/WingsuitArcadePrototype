@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 241f449518d9deb4e81864132bb04b27
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: shadow
+    7400000: Take 001 //// wingsuit
+    7400002: idle //// wingsuit
+    7400004: left //// wingsuit
+    7400006: right //// wingsuit
+    7400008: up //// wingsuit
+    7400010: down //// wingsuit
+    7400012: frontflip //// wingsuit
+    7400014: barrelroll //// wingsuit
+    7400016: idle0 //// wingsuit
+    7400018: unstable //// wingsuit
+    7400020: startidle //// wingsuit
+    7400022: startJump //// wingsuit
+    7400024: startjump //// wingsuit
+    100100000: DataTemplate __Singleton__
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: idle
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      loop: 0
+    - name: left
+      firstFrame: 200
+      lastFrame: 224
+      wrapMode: 0
+      loop: 0
+    - name: right
+      firstFrame: 225
+      lastFrame: 249
+      wrapMode: 0
+      loop: 0
+    - name: up
+      firstFrame: 250
+      lastFrame: 274
+      wrapMode: 0
+      loop: 0
+    - name: down
+      firstFrame: 275
+      lastFrame: 299
+      wrapMode: 0
+      loop: 0
+    - name: frontflip
+      firstFrame: 300
+      lastFrame: 324
+      wrapMode: 0
+      loop: 1
+    - name: barrelroll
+      firstFrame: 325
+      lastFrame: 349
+      wrapMode: 0
+      loop: 1
+    - name: unstable
+      firstFrame: 350
+      lastFrame: 399
+      wrapMode: 0
+      loop: 1
+    - name: startidle
+      firstFrame: 400
+      lastFrame: 449
+      wrapMode: 0
+      loop: 1
+    - name: startjump
+      firstFrame: 450
+      lastFrame: 499
+      wrapMode: 1
+      loop: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+      data:
+        first: 111
+        second: 605fa900
+    Bone_Arm_L_Down:
+      data:
+        first: 1
+        second: ae860100
+      data:
+        first: 4
+        second: 8e1a0600
+    Bone_Arm_L_End:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+    Bone_Arm_L_Hand:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+    Bone_Arm_L_Up:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+    Bone_Arm_R_Down:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+    Bone_Arm_R_End:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+    Bone_Arm_R_Hand:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+    Bone_Arm_R_Up:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+    Bone_Back:
+      data:
+        first: 1
+        second: c8860100
+      data:
+        first: 4
+        second: a81a0600
+      data:
+        first: 137
+        second: a00bd100
+    Bone_Head:
+      data:
+        first: 1
+        second: c4860100
+      data:
+        first: 4
+        second: a41a0600
+    Bone_Head_End:
+      data:
+        first: 1
+        second: c2860100
+      data:
+        first: 4
+        second: a21a0600
+    Bone_Leg_L_Down:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600
+    Bone_Leg_L_End:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+    Bone_Leg_L_Foot:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+    Bone_Leg_L_Up:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+    Bone_Leg_R_Down:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+    Bone_Leg_R_End:
+      data:
+        first: 1
+        second: ba860100
+      data:
+        first: 4
+        second: 9a1a0600
+    Bone_Leg_R_Foot:
+      data:
+        first: 1
+        second: bc860100
+      data:
+        first: 4
+        second: 9c1a0600
+    Bone_Leg_R_Up:
+      data:
+        first: 1
+        second: c0860100
+      data:
+        first: 4
+        second: a01a0600
+    Bone_Neck:
+      data:
+        first: 1
+        second: c6860100
+      data:
+        first: 4
+        second: a61a0600
+    shadow:
+      data:
+        first: 1
+        second: ca860100
+      data:
+        first: 4
+        second: aa1a0600
