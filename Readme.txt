@@ -1,3 +1,5 @@
+Itch.io page, download for free: https://ramjetanvil.itch.io/wingsuit-arcade-prototype
+
 Hey!
 
 Thanks for checking out this package, I hope it helps you with your project.
